@@ -31,3 +31,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TeamCity_Icon.svg/768px-TeamCity_Icon.svg.png?20200803084943" title="TeamCity" alt="TeamCity" width="40" height="40"/>&nbsp;  
 </div>
+
+---
+
+### GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawcheg&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
